@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.1](https://github.com/sherwinski/automated-release-npm/compare/v1.3.0...1.3.1) (2024-11-04)
+
+### Bug Fixes
+
+* format git tag to not prepend `v` ([e01dcf1](https://github.com/sherwinski/automated-release-npm/commit/e01dcf1fdba05c56cc78c9e4d65b1f6b067a2b5c))
+
 ## [1.3.0](https://github.com/sherwinski/automated-release-npm/compare/v1.2.0...v1.3.0) (2024-11-04)
 
 ### Features
