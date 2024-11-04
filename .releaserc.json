@@ -75,10 +75,6 @@
                 "changelogTitle": "# Changelog"
             }
         ],
-        ["@semantic-release/npm", {
-                "pkgRoot": "."
-            }
-        ],
         [
             "@semantic-release/git",
             {
@@ -90,6 +86,10 @@
                 "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes} [skip ci]"
             }
         ],
-        "@semantic-release/github"
+        "@semantic-release/github",
+        ["@semantic-release/npm", {
+          "pkgRoot": "."
+            }
+        ]
     ]
 }
