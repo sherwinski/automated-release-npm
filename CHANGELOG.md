@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/sherwinski/automated-release-npm/compare/1.5.0...2.0.0) (2024-11-04)
+
+### ⚠ BREAKING CHANGES
+
+* removes a feature
+
+### Bug Fixes
+
+* changing a feature ([fc8fdfe](https://github.com/sherwinski/automated-release-npm/commit/fc8fdfea0729b2bfb03cc904f9b8a0cf6aa73d21))
+
 ## [1.5.0](https://github.com/sherwinski/automated-release-npm/compare/1.4.0...1.5.0) (2024-11-04)
 
 ### Features
