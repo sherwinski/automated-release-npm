@@ -14,5 +14,12 @@ console.log("Hello World 5");
 // 1.3.2
 console.log("Hello World 6");
 
-// 2.0.0
+// expecting 2.0.0, got 1.5.0
+// feat: changing a feature
+// BREAKING CHANGE
+console.log("Hello World 7");
+
+// expecting 2.0.0, got 1.5.0
+// fix: changing a feature
+// BREAKING CHANGE: removes a feature
 console.log("Hello World 7");
