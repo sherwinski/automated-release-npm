@@ -19,7 +19,11 @@ console.log("Hello World 6");
 // BREAKING CHANGE
 console.log("Hello World 7");
 
-// expecting 2.0.0, got 1.5.0
+// expecting 2.0.0, got 2.0.0
 // fix: changing a feature
 // BREAKING CHANGE: removes a feature
+console.log("Hello World 7");
+
+// expecting 3.0.0
+// feat!: removing a feature
 console.log("Hello World 7");
