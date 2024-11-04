@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.0](https://github.com/sherwinski/automated-release-npm/compare/1.4.0...1.5.0) (2024-11-04)
+
+### Features
+
+* changing a feature ([ec0824c](https://github.com/sherwinski/automated-release-npm/commit/ec0824c2ebd21a221a1a67ee0e30fd64a5f93ec4))
+
 ## [1.4.0](https://github.com/sherwinski/automated-release-npm/compare/1.3.1...1.4.0) (2024-11-04)
 
 ### Features
