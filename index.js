@@ -4,3 +4,6 @@ console.log("Hello World");
 
 console.log("Hello World 2");
 console.log("Hello World 3");
+
+// 1.2.0
+console.log("Hello World 3");
