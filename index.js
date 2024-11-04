@@ -13,3 +13,6 @@ console.log("Hello World 5");
 
 // 1.3.2
 console.log("Hello World 6");
+
+// 2.0.0
+console.log("Hello World 7");
