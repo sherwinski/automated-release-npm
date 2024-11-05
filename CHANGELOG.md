@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.0.1](https://github.com/sherwinski/automated-release-npm/compare/3.0.0...3.0.1) (2024-11-05)
+
+### ⚠ BREAKING CHANGES
+
+* a breaking change
+
+### Features
+
+* a breaking change ([e124c0f](https://github.com/sherwinski/automated-release-npm/commit/e124c0fce0e228fc35040619e54ca7f6b6466ceb))
+
+### Bug Fixes
+
+* prevent automatically publishing major releases ([0b72cfc](https://github.com/sherwinski/automated-release-npm/commit/0b72cfc1b870602ca59beb56f0cd3dff5e8abd33))
+
 ## [3.0.0](https://github.com/sherwinski/automated-release-npm/compare/2.0.0...3.0.0) (2024-11-05)
 
 ### ⚠ BREAKING CHANGES
