@@ -33,7 +33,12 @@ console.log("Hello World 8");
 // BREAKING CHANGE: removes a certain feature
 console.log("Hello World 9");
 
-// expecting no release
+// expecting no release, got no release
 // feat!: a breaking change
 // Some notes about the breaking change
 console.log("Hello World 10");
+
+// expecting 3.1.0
+// fix: a breaking change related to a bug
+// BREAKING CHANGE: removes a certain feature
+console.log("Hello World 11");
