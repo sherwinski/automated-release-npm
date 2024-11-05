@@ -42,3 +42,12 @@ console.log("Hello World 10");
 // fix: a breaking change related to a bug
 // BREAKING CHANGE: removes a certain feature
 console.log("Hello World 11");
+
+
+
+
+
+
+
+// let's add a new feature
+console.log("Hello World 12");
