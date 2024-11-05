@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.1.0](https://github.com/sherwinski/automated-release-npm/compare/3.0.1...3.1.0) (2024-11-05)
+
+### ⚠ BREAKING CHANGES
+
+* adds a fix in that breaks previous behavior
+
+### Bug Fixes
+
+* a breaking change related to a bug ([50b2a5b](https://github.com/sherwinski/automated-release-npm/commit/50b2a5ba3d7acf3e1fbfeb6125d8dcbf9d5fb741))
+
 ## [3.0.1](https://github.com/sherwinski/automated-release-npm/compare/3.0.0...3.0.1) (2024-11-05)
 
 ### ⚠ BREAKING CHANGES
