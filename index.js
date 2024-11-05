@@ -11,7 +11,7 @@ console.log("Hello World 4");
 // 1.3.0
 console.log("Hello World 5");
 
-// 1.3.2
+// 1.4.0
 console.log("Hello World 6");
 
 // expecting 2.0.0, got 1.5.0
@@ -24,6 +24,11 @@ console.log("Hello World 7");
 // BREAKING CHANGE: removes a feature
 console.log("Hello World 7");
 
+// expecting 3.0.0, got no release published
+// feat!: removing a feature
+console.log("Hello World 8");
+
 // expecting 3.0.0
 // feat!: removing a feature
-console.log("Hello World 7");
+// BREAKING CHANGE: removes a certain feature
+console.log("Hello World 9");
