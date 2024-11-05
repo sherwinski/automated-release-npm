@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.2.0](https://github.com/sherwinski/automated-release-npm/compare/3.1.0...3.2.0) (2024-11-05)
+
+### Features
+
+* adding a new feature ([76e68f2](https://github.com/sherwinski/automated-release-npm/commit/76e68f2c851dd25613f1639af87b97e9ca166df0))
+
 ## [3.1.0](https://github.com/sherwinski/automated-release-npm/compare/3.0.1...3.1.0) (2024-11-05)
 
 ### ⚠ BREAKING CHANGES
