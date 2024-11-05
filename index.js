@@ -28,7 +28,12 @@ console.log("Hello World 7");
 // feat!: removing a feature
 console.log("Hello World 8");
 
-// expecting 3.0.0
+// expecting 3.0.0, got 3.0.0
 // feat!: removing a feature
 // BREAKING CHANGE: removes a certain feature
 console.log("Hello World 9");
+
+// expecting no release
+// feat!: a breaking change
+// Some notes about the breaking change
+console.log("Hello World 10");
