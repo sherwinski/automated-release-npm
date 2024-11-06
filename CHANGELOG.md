@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.2.1](https://github.com/sherwinski/automated-release-npm/compare/3.2.0...3.2.1) (2024-11-06)
+
+### Bug Fixes
+
+* revert f17daf7 ([6a3bf81](https://github.com/sherwinski/automated-release-npm/commit/6a3bf81229a462b091ba654e2f5389d736708460))
+
 ## [3.2.0](https://github.com/sherwinski/automated-release-npm/compare/3.1.0...3.2.0) (2024-11-05)
 
 ### Features
