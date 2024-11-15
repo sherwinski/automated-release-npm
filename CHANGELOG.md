@@ -1,5 +1,7 @@
 # Changelog
 
+## [3.2.2](https://github.com/sherwinski/automated-release-npm/compare/3.2.1...3.2.2) (2024-11-15)
+
 ## [3.2.1](https://github.com/sherwinski/automated-release-npm/compare/3.2.0...3.2.1) (2024-11-06)
 
 ### Bug Fixes
